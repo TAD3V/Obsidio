@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obsidisword",
+  "name": "The Obsidian Mod",
+  "description": "A mod that adds obsidian tools and armour to the game.",
+  "version": "0.1a",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DuatChicken"],
+  "credits": "DuatChicken",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

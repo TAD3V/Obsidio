@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "obsidisword:obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:obsidian",
+    "data": 0
+  }
+}

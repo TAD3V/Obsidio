@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    " W ",
+    " W "
+  ],
+  "key": {
+    "S": {
+      "item": "obsidisword:obsidian_shard"
+    },
+    "W": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "obsidisword:obsidian_pickaxe",
+    "data": 0
+  }
+}
